@@ -2,7 +2,7 @@
 template: BlogPost
 path: >-
   /grandbox-celebrates-its-5th-anniversary-as-the-original-subscription-box-for-seniors-and-d755805f244f
-date: 2019-08-03T15:07:00.000Z
+date: 2018-08-03T15:07:00.000Z
 title: >-
   GrandBox Celebrates It’s 5th anniversary As The Original Subscription Box for
   Seniors and Grandparents.
