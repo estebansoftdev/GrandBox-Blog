@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /inspired-by-grandma-4c3f06faa404
-date: 2020-06-18T00:06:08.445Z
+date: 2019-11-20T01:06:00.000Z
 title: Inspired by Grandma
 thumbnail: /assets/inspired-by-grandma.jpeg
 ---
