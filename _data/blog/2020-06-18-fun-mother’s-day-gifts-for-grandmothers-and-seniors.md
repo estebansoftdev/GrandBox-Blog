@@ -11,6 +11,16 @@ Subscription boxes are great gifts for Grandmas on Mother’s Day. Pictured abov
 
 <!--EndFragment-->
 
+<!--StartFragment-->
+
+**It’s easy to forget that Nana and Granny are Mothers Too!**
+
+Mother’s Day is the perfect day to show how much you love your mother. But it’s also an amazing opportunity to show how much you love and appreciate your grandmother. Below are some fun and affordable Mother’s Day gifts for grandmas and senior aged mothers.
+
+**[JR Watkins Gift Set](https://www.jrwatkins.com/products/Bath-and-Body/Gift-Kits/Head-to-Toe-Kit/)**. Pamper grandma’s skin from head-to-toe with this collection of nourishing personal care products.
+
+<!--EndFragment-->
+
 ![](/assets/C9mmTPMo-eQjKrFQgryx7g.png)
 
 <!--StartFragment-->
@@ -21,17 +31,9 @@ JR Watkins Gift Set
 
 <!--StartFragment-->
 
-**It’s easy to forget that Nana and Granny are Mothers Too!**
+**[Games!](http://www.grandparents.com/archive/2010-new-family-board-games-lou-harry)**Whether it be a classic game like[checkers](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=checkers&rh=i%3Aaps%2Ck%3Acheckers), something newer like[Bananagrams](http://www.thhsclassic.com/2015/11/24/bananagrams-a-very-apeeling-game/), or just a good old[deck of cards](https://www.amazon.com/Bicycle-Vision-Playing-Card-Deck/dp/B0009WE5B4), games are a fun way to bond, create memories, and start new traditions.
 
-Mother’s Day is the perfect day to show how much you love your mother. But it’s also an amazing opportunity to show how much you love and appreciate your grandmother. Below are some fun and affordable Mother’s Day gifts for grandmas and senior aged mothers.
-
-**[JR Watkins Gift Set](https://www.jrwatkins.com/products/Bath-and-Body/Gift-Kits/Head-to-Toe-Kit/)**. Pamper grandma’s skin from head-to-toe with this collection of nourishing personal care products.
-
-<!--EndFragment--><!--StartFragment-->
-
-**[Games!](http://www.grandparents.com/archive/2010-new-family-board-games-lou-harry)** Whether it be a classic game like [checkers](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=checkers&rh=i%3Aaps%2Ck%3Acheckers), something newer like [Bananagrams](http://www.thhsclassic.com/2015/11/24/bananagrams-a-very-apeeling-game/), or just a good old [deck of cards](https://www.amazon.com/Bicycle-Vision-Playing-Card-Deck/dp/B0009WE5B4), games are a fun way to bond, create memories, and start new traditions.
-
-**Refrigerator magnets and notepads**. Grandmothers love hanging grandkids’ drawings and photos on the fridge. Nowadays there’s no shortage of neat [fridge magnets](https://www.etsy.com/market/fridge_magnet) and [notepads](https://www.etsy.com/search?q=cute%20notepads&ref=auto1) to jazz up the front of the fridge.
+**Refrigerator magnets and notepads**. Grandmothers love hanging grandkids’ drawings and photos on the fridge. Nowadays there’s no shortage of neat[fridge magnets](https://www.etsy.com/market/fridge_magnet)and[notepads](https://www.etsy.com/search?q=cute%20notepads&ref=auto1)to jazz up the front of the fridge.
 
 <!--EndFragment-->
 
