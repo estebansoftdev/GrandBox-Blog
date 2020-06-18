@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /top-fitness-tips-to-stay-active-in-retirement-70ebfebad655
-date: 2020-06-18T00:23:59.307Z
+date: 2020-02-11T01:23:59.307Z
 title: Top Fitness Tips to Stay Active In Retirement
 thumbnail: /assets/top-fitness-tips-to-stay-active-in-retirement.jpeg
 ---
