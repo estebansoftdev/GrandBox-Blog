@@ -3,7 +3,7 @@ template: BlogPost
 path: /grandbox-marketplace-dda402098495
 date: 2016-08-09T16:35:00.000Z
 title: GrandBox Marketplace
-thumbnail: ''
+thumbnail: /assets/grandbox-marketplace.jpeg
 ---
 <!--StartFragment-->
 
