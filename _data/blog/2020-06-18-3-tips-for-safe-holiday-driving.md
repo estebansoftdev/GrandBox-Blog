@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /3-tips-for-safe-holiday-driving-8c947d462ba6
-date: 2020-06-18T00:10:39.331Z
+date: 2019-12-06T01:10:00.000Z
 title: 3 Tips for Safe Holiday Driving
 thumbnail: /assets/3-tips-for-safe-holiday-driving.jpeg
 ---
