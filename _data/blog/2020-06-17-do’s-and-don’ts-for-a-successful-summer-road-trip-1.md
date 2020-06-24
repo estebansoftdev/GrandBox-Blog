@@ -3,7 +3,7 @@ template: BlogPost
 path: /dos-and-don-ts-for-a-successful-summer-road-trip-b11457209169
 date: 2019-07-12T23:13:00.000Z
 title: Do’s and don’ts for a successful summer road trip
-thumbnail: /assets/Do’s_and_don’ts_for_a_successful_summer_road_trip.jpeg
+thumbnail: /assets/12.jpg
 ---
 <!--StartFragment-->
 
