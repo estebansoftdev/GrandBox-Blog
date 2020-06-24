@@ -3,7 +3,7 @@ template: BlogPost
 path: /grand-gift-giving-for-the-holidays-15a66141b37d
 date: 2019-12-14T01:12:00.000Z
 title: Grand Gift Giving For the Holidays
-thumbnail: /assets/grand-gift-giving-for-the-holidays.jpeg
+thumbnail: /assets/9.jpg
 ---
 <!--StartFragment-->
 
