@@ -3,7 +3,7 @@ template: BlogPost
 path: /medicare-open-enrollment-how-to-save-money-next-year-c840663df432
 date: 2019-09-21T23:22:00.000Z
 title: 'Medicare Open Enrollment: How to save money next year'
-thumbnail: /assets/medicare-open-enrollment-how-to-save-money-next-year.jpeg
+thumbnail: /assets/23.jpg
 ---
 <!--StartFragment-->
 
