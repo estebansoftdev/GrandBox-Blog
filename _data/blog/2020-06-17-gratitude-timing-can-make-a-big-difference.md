@@ -3,7 +3,7 @@ template: BlogPost
 path: /gratitude-timing-can-make-a-big-difference-d6ff05cb8800
 date: 2019-10-25T23:56:00.000Z
 title: Gratitude; Timing Can Make a Big Difference
-thumbnail: /assets/gratitude-timing-can-make-a-big-difference.png
+thumbnail: /assets/18.jpg
 ---
 <!--StartFragment-->
 
