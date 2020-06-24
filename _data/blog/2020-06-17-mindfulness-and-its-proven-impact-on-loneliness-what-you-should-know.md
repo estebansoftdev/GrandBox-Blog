@@ -4,7 +4,7 @@ path: >-
   /mindfulness-and-its-proven-impact-on-loneliness-what-you-should-know-d449c55fd316
 date: 2019-07-04T22:46:00.000Z
 title: 'Mindfulness and its proven impact on loneliness: What you should know'
-thumbnail: /assets/Mindfulness_and_its_proven_impact_on_loneliness.jpeg
+thumbnail: /assets/25.jpg
 ---
 <!--StartFragment-->
 
