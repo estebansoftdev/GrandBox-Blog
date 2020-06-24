@@ -3,7 +3,7 @@ template: BlogPost
 path: /being-a-blessing-to-others-is-grand-27505a02adac
 date: 2019-09-28T23:29:00.000Z
 title: Being A Blessing to Others Is Grand
-thumbnail: /assets/being-a-blessing-to-others-is-grand.jpeg
+thumbnail: /assets/22.jpg
 ---
 <!--StartFragment-->
 
@@ -17,6 +17,6 @@ We curate a new theme each month for our boxes. The themes represent the change 
 
 This article has been a shameless plug for Grandbox but even more important I hope it is a healthy reminder for all of us to reach out to our loved ones. Life is never too busy to let them know you care and they are loved! Wishing you all a Grand day!
 
-[www.mygrandbox.com](http://www.mygrandbox.com)
+
 
 <!--EndFragment-->
