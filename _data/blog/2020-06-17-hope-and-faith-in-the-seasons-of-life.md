@@ -3,7 +3,7 @@ template: BlogPost
 path: /hope-and-faith-in-the-seasons-of-life-235202620bc4
 date: 2019-10-19T23:35:00.000Z
 title: Hope and Faith In The Seasons of Life
-thumbnail: /assets/hope-and-faith-in-the-seasons-of-life.jpeg
+thumbnail: /assets/21.jpg
 ---
 <!--StartFragment-->
 
