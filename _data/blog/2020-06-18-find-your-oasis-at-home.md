@@ -3,7 +3,7 @@ template: BlogPost
 path: /find-your-oasis-at-home-ebe5d9639d00
 date: 2019-11-19T01:00:00.000Z
 title: Find Your Oasis At Home
-thumbnail: /assets/find-your-oasis-at-home.jpeg
+thumbnail: /assets/16.jpg
 ---
 <!--StartFragment-->
 
