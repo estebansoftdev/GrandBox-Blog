@@ -3,7 +3,7 @@ template: BlogPost
 path: /clear-vision-for-2020-4240b26a2b8b
 date: 2019-12-27T01:17:00.000Z
 title: Clear Vision for 2020?
-thumbnail: /assets/clear-vision-for-2020.jpeg
+thumbnail: /assets/8.jpg
 ---
 <!--StartFragment-->
 
