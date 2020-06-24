@@ -3,7 +3,7 @@ template: BlogPost
 path: /ideas-for-starting-a-holiday-tradition-bf9d9aae9b82
 date: 2019-12-16T01:15:00.000Z
 title: Ideas For Starting a Holiday Tradition
-thumbnail: /assets/ideas-for-starting-a-holiday-tradition.png
+thumbnail: /assets/7.jpg
 ---
 <!--StartFragment-->
 
