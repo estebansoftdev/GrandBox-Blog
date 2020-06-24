@@ -3,6 +3,7 @@ template: BlogPost
 path: /7-unique-gifts-for-grandparents-day-918e2780580e
 date: 2017-08-06T15:36:00.000Z
 title: 7 Unique gifts for Grandparent’s Day
+thumbnail: /assets/29.jpg
 ---
 <!--StartFragment-->
 
