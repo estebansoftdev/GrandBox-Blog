@@ -3,7 +3,7 @@ template: BlogPost
 path: /grandmother-inspiration-a2e5ea89ddd1
 date: 2019-07-12T23:01:00.000Z
 title: Grandmother Inspiration
-thumbnail: /assets/grandmother_Inspiration.jpeg
+thumbnail: /assets/13.jpg
 ---
 <!--StartFragment-->
 
