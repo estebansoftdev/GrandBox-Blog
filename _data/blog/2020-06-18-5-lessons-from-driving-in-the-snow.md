@@ -3,7 +3,7 @@ template: BlogPost
 path: /5-lessons-from-driving-in-the-snow-bfe27103164f
 date: 2019-12-01T01:06:00.000Z
 title: 5 Lessons From Driving In The Snow
-thumbnail: /assets/5-lessons-from-driving-in-the-snow.jpeg
+thumbnail: /assets/15.jpg
 ---
 <!--StartFragment-->
 
