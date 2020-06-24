@@ -3,7 +3,7 @@ template: BlogPost
 path: /keep-mom-dad-and-the-grands-home-safe-with-the-latest-technology-1e4ff0ef73bf
 date: 2019-12-14T01:10:00.000Z
 title: 'Keep mom, dad and the grands home safe with the latest technology'
-thumbnail: /assets/keep-mom-dad-and-the-grands-home-safe-with-the-latest-technology.jpeg
+thumbnail: /assets/10.jpg
 ---
 <!--StartFragment-->
 
