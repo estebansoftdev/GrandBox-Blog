@@ -3,7 +3,7 @@ template: BlogPost
 path: /fun-mothers-day-gifts-for-grandmothers-and-seniors-f95c89ee4a73
 date: 2020-04-03T16:13:45.837Z
 title: Fun Mother’s Day Gifts for Grandmothers and Seniors
-thumbnail: /assets/fun-mothers-day-gifts-for-grandmothers-and-seniors.jpeg
+thumbnail: /assets/2.jpg
 ---
 <!--StartFragment-->
 
