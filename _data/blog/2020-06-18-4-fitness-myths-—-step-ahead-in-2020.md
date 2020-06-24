@@ -3,7 +3,7 @@ template: BlogPost
 path: /4-fitness-myths-step-ahead-in-2020-19d9f7b7680d
 date: 2020-01-04T01:21:04.318Z
 title: 4 Fitness Myths — Step Ahead in 2020!
-thumbnail: /assets/4-fitness-myths-step-ahead-in-2020.jpeg
+thumbnail: /assets/6.jpg
 ---
 <!--StartFragment-->
 
