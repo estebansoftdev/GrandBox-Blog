@@ -3,7 +3,7 @@ template: BlogPost
 path: /5-ideas-to-bring-spring-smiles-8cd7a7cf88c
 date: 2020-05-22T15:00:12.518Z
 title: 5 Ideas To Bring Spring Smiles
-thumbnail: /assets/5-ideas-to-bring-spring-smiles.jpeg
+thumbnail: /assets/1.jpg
 ---
 <!--StartFragment-->
 
