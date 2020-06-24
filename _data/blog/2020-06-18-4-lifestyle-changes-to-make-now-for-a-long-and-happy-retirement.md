@@ -3,7 +3,7 @@ template: BlogPost
 path: /4-lifestyle-changes-to-make-now-for-a-long-and-happy-retirement-ee7bc8e9c666
 date: 2020-02-22T01:25:52.131Z
 title: 4 Lifestyle changes to make now for a long and happy retirement
-thumbnail: /assets/4-lifestyle-changes-to-make-now-for-a-long-and-happy-retirement.jpeg
+thumbnail: /assets/4.jpg
 ---
 <!--StartFragment-->
 
