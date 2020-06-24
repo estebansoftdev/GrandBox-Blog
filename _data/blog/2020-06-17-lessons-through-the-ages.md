@@ -3,7 +3,7 @@ template: BlogPost
 path: /lessons-through-the-ages-d3b911815448
 date: 2019-07-20T23:15:00.000Z
 title: Lessons Through The Ages
-thumbnail: /assets/lessons-through-the-ages.jpeg
+thumbnail: /assets/24.jpg
 ---
 <!--StartFragment-->
 
