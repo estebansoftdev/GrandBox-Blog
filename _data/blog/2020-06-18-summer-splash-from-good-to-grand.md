@@ -3,7 +3,7 @@ template: BlogPost
 path: /summer-splash-from-good-to-grand-32a338a4bd6f
 date: 2019-06-17T14:55:00.000Z
 title: Summer Splash From Good To Grand!
-thumbnail: /assets/summer-splash-from-good-to-grand.jpeg
+thumbnail: /assets/26.jpg
 ---
 <!--StartFragment-->
 
