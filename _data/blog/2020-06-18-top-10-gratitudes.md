@@ -3,7 +3,7 @@ template: BlogPost
 path: /top-10-gratitudes-d4fff4643281
 date: 2019-11-01T23:58:00.000Z
 title: Top 10 Gratitudes
-thumbnail: /assets/top-10-gratitudes.jpeg
+thumbnail: /assets/17.jpg
 ---
 <!--StartFragment-->
 
