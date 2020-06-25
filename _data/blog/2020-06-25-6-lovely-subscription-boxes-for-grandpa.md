@@ -3,7 +3,7 @@ template: BlogPost
 path: /6-lovely-subscription-boxes-for-grandpa
 date: 2020-04-15T01:45:00.000Z
 title: 6 lovely subscription boxes for grandpa
-thumbnail: /assets/grandbox-product-2.jpg
+thumbnail: /assets/6-lovely-subscription-boxes-for-grandpa.jpg
 ---
 <!--StartFragment-->
 
