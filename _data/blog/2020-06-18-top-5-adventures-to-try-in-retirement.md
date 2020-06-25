@@ -3,7 +3,7 @@ template: BlogPost
 path: /top-5-adventures-to-try-in-retirement-c174897a6a8
 date: 2020-03-05T01:27:59.669Z
 title: Top 5 Adventures to Try in Retirement
-thumbnail: /assets/top-5-adventures-to-try-in-retirement.jpeg
+thumbnail: /assets/3.jpg
 ---
 <!--StartFragment-->
 
